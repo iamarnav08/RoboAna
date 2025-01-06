@@ -1,5 +1,6 @@
 
-![robo_ana](https://github.com/user-attachments/assets/c8052c61-3dc8-42d2-8e45-e8fdf3a8f147)
+<img src="https://github.com/user-attachments/assets/c8052c61-3dc8-42d2-8e45-e8fdf3a8f147" alt="robo_ana" width="200"/>
+
 
 # RoboAna
 Analysis of logbook data of SVTA MBE System.
