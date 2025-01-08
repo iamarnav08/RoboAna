@@ -13,7 +13,7 @@ Select the file(s) or folder from which you wish to plot the data. Select the re
 ## Usage
 Download the correct version according to the OS you wish to use it on. As of now only Windows and Linux are supported. 
 
-[Folder for applications.](https://drive.google.com/drive/folders/1fkFV9bm4Hk3vEjS_wqErPX0snnRTIFDg?usp=drive_link)
+[Folder for applications.](https://drive.google.com/drive/folders/1fkFV9bm4Hk3vEjS_wqErPX0snnRTIFDg?usp=sharing)
 
 
 ### Linux
