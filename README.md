@@ -24,3 +24,14 @@ Download the installer. Run the installation wizard to be able to use the RoboAn
 
 ![Screenshot from 2025-01-07 00-11-27](https://github.com/user-attachments/assets/6e5fb308-f1ea-4cc8-94f7-74072b90d5d5)
 
+
+
+## Version History
+
+### 1.0.1
+- Fixed [Minor bugs related to date and time.].
+
+### 1.0.0
+- Initial release.
+
+
